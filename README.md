@@ -1,4 +1,4 @@
-[![GitHub license]()](https://github.com/bozicb/similarity-theory/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/bozicb/similarity-theory.svg)](https://github.com/bozicb/similarity-theory/blob/master/LICENSE)
 
 # similarity-theory
 
