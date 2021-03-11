@@ -10,6 +10,14 @@ athletes = Daru::DataFrame.new(
   index: (1..20).to_a
 )
 
+athletes.plot type: :scatter, x: 'Speed', y: 'Agility' do |plot, diagram|
+  plot.x_label 'Speed'
+  plot.y_label 'Agility'
+  plot.width 500
+  plot.height 400
+end
+
 prediction = knn(athletes,3,[6.75,3])
 puts "Prediction: #{prediction}"
 
+athletes.write_csv('athletes.csv')
