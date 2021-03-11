@@ -1,3 +1,5 @@
+[![GitHub license]()](https://github.com/bozicb/similarity-theory/blob/master/LICENSE)
+
 # similarity-theory
 
 This repository consists of Ruby scripts and functions for similarity theory. I'm not making a claim of mathematical identity, but it might be a useful set of helper functions for your own machine learning project, especially if you working with students and plan to look under the hood of similarity models. 
