@@ -1,4 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/bozicb/similarity-theory.svg)](https://github.com/bozicb/similarity-theory/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/bozicb/similarity-theory.svg)](https://github.com/bozicb/similarity-theory/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/bozicb/similarity-theory.svg)](https://github.com/bozicb/similarity-theory/issues/)
 
 # similarity-theory
 
