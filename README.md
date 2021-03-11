@@ -22,4 +22,4 @@ The `return` value of this function will be a prediction for the `query`.
 
 ### euclidean(a, b)
 This function uses instances `a` and `b` and returns the *euclidean* distance between them. As in the following equation:
-<img src="images/equation1.png" width="200">
+<img src="equation1.png" width="200">
