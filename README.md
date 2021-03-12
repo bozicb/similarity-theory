@@ -24,6 +24,9 @@ The next parameter is the amount of neighbours you want to take into account, so
 
 The `return` value of this function will be a prediction for the `query`. 
 
-### euclidean(a, b)
+### normalise(Daru::Vector)
+Normalises the values of a `Daru::Vector`.
+
+### euclidean(Array, Array)
 This function uses instances `a` and `b` and returns the *euclidean* distance between them. As in the following equation:
 <img src="equation1.png" width="200">
